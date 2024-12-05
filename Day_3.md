@@ -3,9 +3,9 @@
 
 > You’re trying to identify the most calorie-packed candies to avoid during your holiday binge. Write a query to rank candies based on their calorie count within each category. Include the candy name, category, calories, and rank (rank_in_category) within the category.
 
+```sql
 Table name: candy_nutrition
 
-```sql
 | candy_id | candy_name              | calories | candy_category |
 |----------|-------------------------|----------|----------------|
 | 1        | Candy Cane              | 200      | Sweets         |
