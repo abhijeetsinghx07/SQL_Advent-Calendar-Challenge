@@ -5,6 +5,8 @@
 **Table name:** rentals
 
 ```sql
+Table name: Rentals
+
 | rental_id | customer_name | activity     | rental_date |
 |-----------|---------------|--------------|-------------|
 | 1         | Emily         | Skiing       | 2024-01-01  |
