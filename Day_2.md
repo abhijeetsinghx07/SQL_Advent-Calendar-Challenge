@@ -2,9 +2,10 @@
 
 > Santa wants to know which gifts weigh more than 1 kg. Can you list them?
 
-**Table name: gifts**
 
 ```sql
+Table name: gifts
+
 | Gift Name       | Recipient | Weight (kg) |
 |------------------|-----------|-------------|
 | Toy Train        | John      | 2.5         |
