@@ -2,8 +2,10 @@
 
 > You’re planning your next ski vacation and want to find the best regions with heavy snowfall. Given the tables resorts and snowfall, find the average snowfall for each region and sort the regions in descending order of average snowfall. Return the columns region and average_snowfall.
 
-**Table name: ski_resorts**
+
 ```sql
+Table name: ski_resorts
+
 | resort_id | resort_name        | region            |
 |-----------|--------------------|-------------------|
 | 1         | Snowy Peaks        | Rocky Mountains   |
@@ -12,8 +14,9 @@
 | 4         | Powder Paradise    | Rocky Mountains   |
 ```
 
-**Table name: snowfall**
 ```sql
+Table name: snowfall
+
 | resort_id | snowfall_inches |
 |-----------|-----------------|
 | 1         | 60              |
